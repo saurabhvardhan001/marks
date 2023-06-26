@@ -9,11 +9,7 @@ import subjects.List;
 import subjects.PathVariable;
 import subjects.PostConstruct;
 import subjects.RestController;
-import subjects.UniversityController;
-import subjects.additional;
-import subjects.and;
-import subjects.application;
-import subjects.the;
+
 
 @RestController
 @RequestMapping("/candidates")
